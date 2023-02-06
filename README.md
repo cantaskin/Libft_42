@@ -1,6 +1,6 @@
 # Libft :notebook_with_decorative_cover:
 ```
-The library that we made in 42 schools
+The library that we made in 42 schools. The purpose of this project was to learn the functions in depth by writing the counterparts of existing functions in C libraries.
 ```
 ## About library
 ```
